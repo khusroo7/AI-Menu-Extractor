@@ -1,0 +1,8 @@
+# Ignore the file containing our secret API keys
+.env
+
+# Ignore Python's cache folders and virtual environments
+__pycache__/
+*.pyc
+.venv
+venv/
