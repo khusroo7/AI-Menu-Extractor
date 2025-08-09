@@ -41,5 +41,5 @@ This project is built as a Streamlit application and can be run on your local ma
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/AI-Menu-Extractor-Streamlit.git
+git clone https://github.com/your-username/AI-Menu-Extractor.git
 cd AI-Menu-Extractor-Streamlit
